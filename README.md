@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### NyName is Bill
+#### MyName is Bill
 
 🤡 I’m React developer<br>😎 I’m adept at TypeScript<br>😍 I love functional programming<br>😵‍💫 I’m dedicated to improving the Developer Experience.<br>💓 I’m currently focusing on Haskell
 
