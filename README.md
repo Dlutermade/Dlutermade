@@ -3,6 +3,8 @@
 
 🤡 I’m React developer<br>😎 I’m adept at TypeScript<br>😍 I love functional programming<br>😵‍💫 I’m dedicated to improving the Developer Experience.<br>💓 I’m currently focusing on Haskell
 
+## Codewars:
+![codewars](https://www.codewars.com/users/BillMo/badges/large)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dlutermade0.0) 
