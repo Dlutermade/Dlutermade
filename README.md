@@ -3,7 +3,7 @@
 
 🤡 I’m React developer<br>😎 I’m adept at TypeScript<br>😍 I love functional programming<br>😵‍💫 I’m dedicated to improving the Developer Experience.<br>💓 I’m currently focusing on Haskell
 
-## Codewars:
+## ⛏️ Codewars:
 ![codewars](https://www.codewars.com/users/BillMo/badges/large)
 
 ## 🌐 Socials:
