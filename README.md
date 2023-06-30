@@ -6,6 +6,10 @@
 ## ⛏️ Codewars:
 ![codewars](https://www.codewars.com/users/BillMo/badges/large)
 
+## 🌲 Leetcode:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dluter2003?theme=nord&font=Noto%20Sans)
+I rarely use LeetCode compared to Codewars
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dlutermade0.0) 
 
