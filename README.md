@@ -8,6 +8,7 @@
 
 ## 🌲 Leetcode:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Dluter2003?theme=nord&font=Noto%20Sans)
+
 I rarely use LeetCode compared to Codewars
 
 ## 🌐 Socials:
